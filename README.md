@@ -1,7 +1,7 @@
-# 1ELE713_SEM4_Assignm1_EDO_Lista1
-Lista com 4 exercícios sobre a resolução de equações diferenciais usando a transformada de Laplace.
+# 1ELE713_SEM5_Assignm1_TF-BlockDiag_Lista1
+Lista com 2 exercícios sobre encontrar a função de transferência de um sistema e sobre redução de diagrama de blocos
 
-Resolva a lista no arquivo 1ELE713-Sem4-Assignm1-EDO-Lista1.pdf
+Resolva a lista no arquivo 1ELE713-Sem5-Assignm1-TF-BlockDiag-Lista1.pdf
 
 Observações:
 
